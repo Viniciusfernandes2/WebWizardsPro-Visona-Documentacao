@@ -74,10 +74,6 @@ Legenda:
 - **Links:** [GitHub](https://github.com/cGuilhermec) | [LinkedIn](https://www.linkedin.com/in/guilherme-carvalho-1b8b08156/)
 
 **Função: Dev Team**
-- **Nome:** André de Holanda Ventura
-- **Links:** [GitHub](https://github.com/AndreHVentura) | [LinkedIn](https://www.linkedin.com/in/andrehventura/)
-
-**Função: Dev Team**
 - **Nome:** Jonatas Filipe Carvalho Ferreira
 - **Links:** [GitHub](https://github.com/filipejonatas) | [LinkedIn](https://www.linkedin.com/in/jonatas-filipe-aa4534165/)
 
