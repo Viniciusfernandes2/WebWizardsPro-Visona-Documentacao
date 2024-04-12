@@ -71,27 +71,32 @@ Legenda:
 
 **Função: Scrum Master**
 - **Nome:** Guilherme Carvalho
-- **Links:** [GitHub](https://github.com/cGuilhermec) | [LinkedIn](https://www.linkedin.com/in/guilherme-carvalho-1b8b08156/)
-
+- **Links:**[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ligribeiro) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/liribeiro/)
+  
 **Função: Dev Team**
 - **Nome:** Jonatas Filipe Carvalho Ferreira
-- **Links:** [GitHub](https://github.com/filipejonatas) | [LinkedIn](https://www.linkedin.com/in/jonatas-filipe-aa4534165/)
+- **Links:**<a href="https://www.linkedin.com/in/vinicius-fernandes-6088a323b/"><img align="center" alt="Linkedin" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"></a>
+  <a href="https://github.com/Viniciusfernandes2"><img align="center" alt="Linkedin" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg"></a>
 
 **Função: Dev Team**
 - **Nome:** Henrique Pintor de Melo
-- **Links:** [GitHub](https://github.com/HenriquePmelo) | [LinkedIn](https://www.linkedin.com/in/henrique-pintor-92448a28b/)
+- **Links:** <a href="https://www.linkedin.com/in/vinicius-fernandes-6088a323b/"><img align="center" alt="Linkedin" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"></a>
+             <a href="https://github.com/Viniciusfernandes2"><img align="center" alt="Linkedin" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg"></a>
 
 **Função: Dev Team**
 - **Nome:** Vinicius Barbosa Fernandes
-- **Links:** [GitHub](https://github.com/Viniciusfernandes2) | [LinkedIn](https://www.linkedin.com/in/vinicius-fernandes-6088a323b)
+- **Links:** <a href="https://www.linkedin.com/in/vinicius-fernandes-6088a323b/"><img align="center" alt="Linkedin" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"></a>
+             <a href="https://github.com/Viniciusfernandes2"><img align="center" alt="Linkedin" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg"></a>
 
 **Função: Dev Team**
 - **Nome:** Jackson Rodrigo Costa Machado
-- **Links:** [GitHub](https://github.com/jacksonrcmachado) | [LinkedIn](https://www.linkedin.com/in/jackson-rodrigo-costa-machado-b636a84a/)
+- **Links:** <a href="https://www.linkedin.com/in/vinicius-fernandes-6088a323b/"><img align="center" alt="Linkedin" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"></a>
+             <a href="https://github.com/Viniciusfernandes2"><img align="center" alt="Linkedin" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg"></a>
 
 **Função: Dev Team**
 - **Nome:** Caio Cesar Silva Azevedo dos Reis
-- **Links:** [GitHub](https://github.com/CaiooAzevedoo) | [LinkedIn](https://www.linkedin.com/in/caio-azevedo-dev/)
+- **Links:** <a href="https://www.linkedin.com/in/vinicius-fernandes-6088a323b/"><img align="center" alt="Linkedin" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"></a>
+             <a href="https://github.com/Viniciusfernandes2"><img align="center" alt="Linkedin" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg"></a>
 
 
 <img style="vertical-align: middle" alt="WW" src="./icon/equipePhoto.jpg">
