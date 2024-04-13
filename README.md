@@ -3,6 +3,7 @@
 <h1>
 <img style="vertical-align: middle" alt="WW" height="40" width="40" src="./icon/chapeu-de-bruxa.png"> WebWizzardsPro-Visona-Documentação
 </h1>
+<img style="vertical-align: middle" alt="logo-webwizzards" src="./icon/logoWebWizardsPro.jpg">
 </div>
 
 <div>
@@ -49,6 +50,27 @@ Legenda:
 ****************  link do portal !!!  *****************
 </div>
 
+
+
+
+
+<div>
+<h2>
+<img style="vertical-align: middle" alt="WW" height="40" width="40" src="./icon/backlog.png"> Backlogs :
+</h2>
+--------------------------------------------------------
+</div>
+
+
+<div>
+<h2>
+<img style="vertical-align: middle" alt="WW" height="40" width="40" src="./icon/requisitos.png"> Requisitos do Cliente :
+</h2>
+<a href="./Requisitos de Cliente 2DSM - 2024-1.pdf"><img style="vertical-align: middle" alt="WW" height="20" width="20" src="./icon/baixar-pdf.png">  Requisitos de Cliente 2DSM - 2024-1.pdf</a>
+</div>
+
+
+
 <div>
 <h2>
 
@@ -58,32 +80,40 @@ Legenda:
 </div>
 
 
- <div>
- <br>
-  <a href="https://www.javascript.com/"> <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  </a>
-  <a href="https://www.typescriptlang.org/"><img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <a>
-  <a href="https://html.com/"><img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  </a>
-  <a href="https://css3.com/"><img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  </a>
-    <a href=""><img align="center" alt="CSS" height="30" width="40" src="">
-  </a>
-    <a href=""><img align="center" alt="CSS" height="30" width="40" src="">
-  </a>
-    <a href=""><img align="center" alt="CSS" height="30" width="40" src="">
-  </a>
-    <a href=""><img align="center" alt="CSS" height="30" width="40" src="">
-  </a>
+<div>
+
+<br>
+<a href="https://www.javascript.com/"> <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+</a>
+<a href="https://www.typescriptlang.org/"><img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+</a>
+<a href="https://html.com/"><img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+</a>
+<a href="https://css3.com/"><img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</a>    
+<a href=""><img align="center" alt="react" height="30" width="30" src="./icon/282599.webp">
+</a>
+<a href=""><img align="center" alt="postgres" height="30" width="30" 
+src="./icon/postgres.png">
+</a>
+<a href=""><img align="center" alt="figma" height="30" width="30" src="./icon/figma.png">
+</a>
+<a href=""><img align="center" alt="excel" height="30" width="30" src="./icon/excel.png">
+</a>
+<a href=""><img align="center" alt="node.js" height="30" width="30" src="./icon/pngegg.png">
+</a>
+<a href=""><img align="center" alt="trello" height="30" width="30" src="./icon/trello_logo_icon_189227.png">
+</a>
+<a href=""><img align="center" alt="vs-code" height="30" width="30" src="./icon/visual-studio-code.1024x1014.png">
   
-  </div>
+</div>
 
 <div>
 <h2>
 <img style="vertical-align: middle" alt="WW" height="40" width="40" src="./icon/equipe.png"> Nossa quipe :
 </h2>
- 
+
+
 **Função: Project Owner**
 - **Nome:** Ligia Ribeiro
 - **Links:** <a href="https://www.linkedin.com/in/liribeiro/"><img align="center" alt="Linkedin" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"></a>
