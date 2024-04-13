@@ -25,7 +25,9 @@ Este sistema visa atender às necessidades das empresas que realizam projetos de
 </p>
 </div>
 
-<h2> Entregas de Sprints </h2>
+<h2>
+<img style="vertical-align: middle" alt="WW" height="40" width="40" src="./icon/cronograma.png"> Entregas de Sprints :
+</h2>
 
 Cada entrega foi realizada a partir da data definida com o cliente, com o relatório completo do que foi desenvolvido nas sprints. Abaixo está a relação das sprints:
 
