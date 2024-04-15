@@ -1,8 +1,8 @@
  <div  align="center">
 
-### :beginner: Sprint 01 :beginner:
+### 📍 Sprint 01 📍
 
-### :date: 15//2023 à 17/04/24 :date:
+## 🗓️ //2023 à 17/04/24 🗓️
 
 </div>
 <h1>
@@ -13,54 +13,47 @@
 
 <div align="center">
 
-### :clapper: 
+### 
 
 </div>
 
 <div align="center">
 
-#### [ :house: Voltar para home](./README.md)
+#### [ 🏚️ Voltar para home](./README.md)
 
 </div>
 
-# :dart: Objetivo da Sprint
+#  🤝 Objetivo da Sprint
 
-- Os objetivos desta sprint foram centrados na entrega do wireframe ao cliente, distribuição e organização de tarefas de acordo com a expertise de cada membro do grupo e planejamento das próximas entregas de sprints conforme combinao com o cliente.
+- Os objetivos desta sprint foram centrados na entrega do wireframe ao cliente, modelagem do banco de dados, utilização de middleware, elaboração da documentação e distribuição de tarefas.
 
-# :triangular_flag_on_post: Sprint Backlog
+# 🚧 Sprint Backlog
 
 [![Sprint Backlog]<img style="vertical-align: middle" alt="WW" height="600" width="920" src="./icon/backlog sprint01.PNG"> 
 
-# :chart_with_downwards_trend: Burndown Sprint 01
+# 📇 Burndown Sprint 01
 
 [![Brundown Sprint01]
 
-##### [:rocket: Voltar ao topo ](#dart-objetivo-da-sprint)
+##### [🔝 Voltar ao topo ](#dart-objetivo-da-sprint)
 
-# :page_facing_up: Wireframe
+# 📝 Wireframe
 
 [![Wireframe](./imgs/WireFrame.PNG)](https://www.figma.com/file/NlvWUeXkm24HkJzpUlTSe8/Web-Wizards?type=design&node-id=0-1&mode=design&t=d2QDJjhf6EplNvEl-0)
 
-# :clipboard: Kanbam (Trello)
+# 📝 Kanbam (Trello)
 
-A equipe toda se organizou para estudar e estruturar a disposição do wireframe. Para entregar da melhor forma o wireframe para o cliente, visando a preparação para o site.
+Organizado pelo PO e SM foram distruidas as atividades.
+[![Kanbam Trello] <img style="vertical-align: middle" alt="WW" height="400" width="520" src="./icon/kanbam trello.jpg">(https://trello.com/invite/b/S4lllvi1/ATTI7b21bcaba66a81faa726ac27911e56094BBD2BA1/webwizardspro-visona)
 
-[![Kanbam Trello](./imgs/Trello.PNG)](./imgs/Trello.PNG)(https://trello.com/invite/b/S4lllvi1/ATTI7b21bcaba66a81faa726ac27911e56094BBD2BA1/webwizardspro-visona)
+##### [🔝 Voltar ao topo ](#dart-objetivo-da-sprint)
 
-##### [:rocket: Voltar ao topo ](#dart-objetivo-da-sprint)
+# 🎬 Sprint Review
 
-# :hotsprings: Sprint Review
 
-Após uma reunião abrangente com toda a equipe, realizamos uma análise minuciosa e constatamos que a primeira Sprint foi bem-sucedida em relação às metas estabelecidas. Todos os entregáveis planejados foram efetivamente concluídos. Além disso, conseguimos adiantar determinados aspectos para a segunda Sprint, otimizando assim o processo. A documentação exigida pelo User Story do professor encontra-se em conformidade com os requisitos, mantendo harmonia em relação às expectativas.
 
-No que concerne ao User Story do cliente, embora haja ainda poucos elementos específicos de seu interesse, já estabelecemos a estrutura das páginas, um componente fundamental para o progresso do projeto. Como equipe, chegamos à conclusão de que estamos no caminho certo com relação a esse User Story.
+# 🎬 retrospectiva da sprint 1
 
-No contexto do User Story do usuário, embora não tenham ocorrido mudanças substanciais, a organização das páginas representa uma melhoria notável para a experiência do usuário. Uma página bem estruturada e organizada facilitará a incorporação dos elementos visuais no futuro. Portanto, concluímos que estamos adequadamente organizados e alinhados com os objetivos estabelecidos. Nossa intenção é continuar com este método e manter o mesmo nível de comprometimento de toda a equipe, visando atender plenamente às expectativas deste projeto. Se percebermos a necessidade de ajustes, estaremos prontos para efetuá-los, visando uma entrega ainda mais precisa e aprimorada na sinergia da equipe.
 
-# :pushpin: retrospectiva da sprint 1
 
-No início da sprint, deparamo-nos com um desafio no que concerne à organização das tarefas prioritárias. Cada membro da equipe tinha sua própria perspectiva sobre a sequência de ações a serem tomadas, resultando em pequenos desentendimentos durante as reuniões diárias, que inicialmente acabou resultando num início de sprint mais lento.
-
-Contudo, após uma construtiva conversa com a Product Owner (PO), que possui um vasto conhecimento em relação ao planejamento e à condução de projetos, incluindo a elaboração de wireframes e os passos subsequentes, conseguimos estabelecer uma estrutura mais sólida, de forma que os as tarefas ficaram mais claras e o desenvolvimento da sprint acabar ocorrendo de uma forma mais harmoniosa até sua conclusão.
-
-##### [:rocket: Voltar ao topo ](#dart-objetivo-da-sprint)
+##### [🔝 Voltar ao topo ](#dart-objetivo-da-sprint)
