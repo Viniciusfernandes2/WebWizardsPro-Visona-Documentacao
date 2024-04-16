@@ -39,13 +39,18 @@
  </div>
  
 # 📇 Burndown Sprint 01
+Nesta sprint o time se uniu para as entregas de cada item listado na backlog da sprint.
 
+Abaixo se encontra o gráfico Burndown gerado pela equipe nesta sprint, onde o eixo X são os dias trabalhados e o eixo Y representa as entregas de cada dia:
 
+<img alt="WW" height="400" width="800" src="./burndown_sprint01.png"> 
 
 ##### [🔝 Voltar ao topo ](#dart-objetivo-da-sprint)
 
 # 📝 Wireframe
 <span id="page_facing_up-wireframe">
+ 
+##### [🔝 Voltar ao topo ](#dart-objetivo-da-sprint)
 
 # 📝 Kanbam (Trello)
 <span id="clipboard-kanbam-trello">
