@@ -39,20 +39,25 @@
 
 # 📝 Wireframe
 
-[![Wireframe](./imgs/WireFrame.PNG)](https://www.figma.com/file/NlvWUeXkm24HkJzpUlTSe8/Web-Wizards?type=design&node-id=0-1&mode=design&t=d2QDJjhf6EplNvEl-0)
 
 # 📝 Kanbam (Trello)
 
-Organizado pelo PO e SM foram distruidas as atividades.
-[![Kanbam Trello] <img style="vertical-align: middle" alt="WW" height="400" width="520" src="./icon/kanbam trello.jpg">(https://trello.com/invite/b/S4lllvi1/ATTI7b21bcaba66a81faa726ac27911e56094BBD2BA1/webwizardspro-visona)
+https://trello.com/invite/b/S4lllvi1/ATTI7b21bcaba66a81faa726ac27911e56094BBD2BA1/webwizardspro-visona
 
 ##### [🔝 Voltar ao topo ](#dart-objetivo-da-sprint)
 
 # 🎬 Sprint Review
 
+O que funcionou bem ?
+- Organização da Equipe Utilizando o Discord para Melhor Visualização e Troca de Informações;
+- Realizar tarefas em prazo estipulado ;
+- Progresso da Documentação, Wireframe e Implementação do Banco de Dados;
+
+Pontos a melhorar !
+- Faltas nas Reuniões devido a Ausência de Parte da Equipe por Doença;
 
 
-# 🎬 retrospectiva da sprint 1
+
 
 
 
