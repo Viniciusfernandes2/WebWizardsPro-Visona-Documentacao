@@ -17,7 +17,7 @@
 <p  align="center">
 <a  href="#sobre">Sobre o Projeto</a> |
 <a  href="#backlogs">Product Backlog</a> |
-<a  href="#sprint">Emtrega de Sprints</a> |
+<a  href="#sprint">Entrega de Sprints</a> |
 <a  href="#tecnologias">Tecnologias</a> |
 <a  href="#equipe">Nossa Equipe</a>
 </p>
