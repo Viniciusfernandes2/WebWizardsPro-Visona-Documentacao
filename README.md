@@ -1,4 +1,4 @@
-
+<span  id="topo">
 <div>
 <h1>
 <img style="vertical-align: middle" alt="WW" height="40" width="40" src="./icon/chapeu-de-bruxa.png"> WebWizzardsPro-Visona-Documentação
@@ -7,13 +7,6 @@
 </div>
 
 <br>
-
-  
-
-<span  id="topo">
-
-  
-
 <p  align="center">
 <a  href="#sobre">Sobre o Projeto</a> |
 <a  href="#backlogs">Product Backlog</a> |
@@ -22,12 +15,7 @@
 <a  href="#equipe">Nossa Equipe</a>
 </p>
 
-  
-
-<span  id="sobre">
-
-  
-
+<span  id="sobre">  
 <br>
 
 
