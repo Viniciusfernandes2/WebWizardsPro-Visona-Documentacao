@@ -38,6 +38,10 @@ Este sistema visa atender às necessidades das empresas que realizam projetos de
 </p>
 </div>
 
+<br>
+
+##### [🔝 Voltar ao topo ](#topo)
+
 <h2 id="sprint">
 <img style="vertical-align: middle" alt="WW" height="40" width="40" src="./icon/cronograma.png"> Entregas de Sprints :
 </h2>
@@ -115,10 +119,6 @@ Front-end: React TypeScript, HTML, CSS.
 <span id="tecnologias">
 </h2>
 </div>
-
-<br>
-
-##### [🔝 Voltar ao topo ](#topo)
 
 
 <div>
