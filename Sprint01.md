@@ -52,13 +52,14 @@ Abaixo se encontra o gráfico Burndown gerado pela equipe nesta sprint, onde o e
 
 <img alt="WW" height="500" width="9999" src="./wireframe.png">
 
+<br>
+
+##### [🔝 Voltar ao topo ](#dart-objetivo-da-sprint)
+
 # 📝 Mer-SGBD
 
 <img alt="WW" height="500" width="800" src="./MER - VISIONA.png">
 
-<br>
-
-##### [🔝 Voltar ao topo ](#dart-objetivo-da-sprint)
 
 <br>
 
