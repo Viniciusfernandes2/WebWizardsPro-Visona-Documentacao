@@ -32,9 +32,10 @@
 
 # 🚧 Sprint Backlog
 <span id="triangular_flag_on_post-sprint-backlog">
+ <div align="center">
+<img alt="WW" height="700" width="950" src="./product_backlog.png"> 
+ </div>
  
-[![Sprint Backlog]<img style="vertical-align: middle" alt="WW" height="600" width="920" src="./icon/backlog sprint01.PNG"> 
-
 # 📇 Burndown Sprint 01
 
 
