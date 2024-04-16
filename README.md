@@ -17,7 +17,7 @@
 <p  align="center">
 <a  href="#sobre">Sobre o Projeto</a> |
 <a  href="#backlogs">Product Backlog</a> |
-<a  href="#user_stories">User Stories</a> |
+<a  href="#sprint">Sprints</a> |
 <a  href="#tecnologias">Tecnologias</a> |
 <a  href="#equipe">Equipe</a>
 </p>
@@ -50,7 +50,7 @@ Este sistema visa atender às necessidades das empresas que realizam projetos de
 </p>
 </div>
 
-<h2 id="sobre">
+<h2 id="sprint">
 <img style="vertical-align: middle" alt="WW" height="40" width="40" src="./icon/cronograma.png"> Entregas de Sprints :
 </h2>
 
@@ -103,7 +103,7 @@ Legenda:
 <h2>
 
 <img style="vertical-align: middle" alt="WW" height="40" width="40" src="./icon/tecnologia.png"> Tecnologias :
-
+<span id="tecnologias">
 </h2>
 </div>
 
@@ -138,6 +138,7 @@ src="./icon/postgres.png">
 
 <div>
 <h2>
+<span id="equipe">  
 <img style="vertical-align: middle" alt="WW" height="40" width="40" src="./icon/equipe.png"> Nossa quipe :
 </h2>
 
