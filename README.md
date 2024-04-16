@@ -17,9 +17,9 @@
 <p  align="center">
 <a  href="#sobre">Sobre o Projeto</a> |
 <a  href="#backlogs">Product Backlog</a> |
-<a  href="#sprint">Sprints</a> |
+<a  href="#sprint">Emtrega de Sprints</a> |
 <a  href="#tecnologias">Tecnologias</a> |
-<a  href="#equipe">Equipe</a>
+<a  href="#equipe">Nossa Equipe</a>
 </p>
 
   
@@ -84,7 +84,7 @@ Legenda:
 <div>
 <span  id="backlogs">
 <h2>
-<img style="vertical-align: middle" alt="WW" height="40" width="40" src="./icon/backlog.png"> Backlogs :
+<img style="vertical-align: middle" alt="WW" height="40" width="40" src="./icon/backlog.png"> Product Backlog :
 </h2>
 --------------------------------------------------------
 </div>
