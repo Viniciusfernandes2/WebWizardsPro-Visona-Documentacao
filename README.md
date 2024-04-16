@@ -115,47 +115,15 @@ src="./icon/postgres.png">
 <img style="vertical-align: middle" alt="WW" height="40" width="40" src="./icon/equipe.png"> Nossa quipe :
 </h2>
 
+| Função          | Nome                          | Links                                                                                                                         |
+|-----------------|-------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| Project Owner   | Ligia Ribeiro                 | [<img align="center" alt="Linkedin" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg">](https://www.linkedin.com/in/liribeiro/) [<img align="center" alt="Github" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg">](https://github.com/ligribeiro) |
+| Scrum Master    | Guilherme Carvalho            | [<img align="center" alt="Linkedin" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg">](https://www.linkedin.com/in/guilherme-carvalho-1b8b08156/) [<img align="center" alt="Github" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg">](https://github.com/cGuilhermec) |
+| Dev Team        | Jonatas Filipe Carvalho Ferreira | [<img align="center" alt="Linkedin" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg">](https://www.linkedin.com/in/jonatas-filipe-aa4534165/) [<img align="center" alt="Github" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg">](https://github.com/filipejonatas) |
+| Dev Team        | Henrique Pintor de Melo       | [<img align="center" alt="Linkedin" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg">](https://www.linkedin.com/in/henrique-pintor-92448a28b/) [<img align="center" alt="Github" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg">](https://github.com/HenriquePmelo) |
+| Dev Team        | Vinicius Barbosa Fernandes    | [<img align="center" alt="Linkedin" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg">](https://www.linkedin.com/in/vinicius-fernandes-6088a323b/) [<img align="center" alt="Github" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg">](https://github.com/Viniciusfernandes2) |
+| Dev Team        | Jackson Rodrigo Costa Machado | [<img align="center" alt="Linkedin" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg">](https://www.linkedin.com/in/jackson-rodrigo-costa-machado-b636a84a/) [<img align="center" alt="Github" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg">](https://github.com/jacksonrcmachado) |
+| Dev Team        | Caio Cesar Silva Azevedo dos Reis | [<img align="center" alt="Linkedin" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg">](https://www.linkedin.com/in/caio-azevedo-dev/) [<img align="center" alt="Github" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg">](https://github.com/CaiooAzevedoo) |
+| Dev Team        | Gustavo Carvalho              | [<img align="center" alt="Linkedin" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg">](https://www.linkedin.com/in/gustavo-carvalho-73663514a/) [<img align="center" alt="Github" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg">](https://github.com/xgustavu) |
 
-**Função: Project Owner**
-- **Nome:** Ligia Ribeiro
-- **Links:** <a href="https://www.linkedin.com/in/liribeiro/"><img align="center" alt="Linkedin" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"></a>
-             <a href="https://github.com/ligribeiro"><img align="center" alt="Github" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg"></a>
 
-**Função: Scrum Master**
-- **Nome:** Guilherme Carvalho
-- **Links:**<a href="https://www.linkedin.com/in/guilherme-carvalho-1b8b08156/"><img align="center" alt="Linkedin" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"></a>
-            <a href="https://github.com/cGuilhermec"><img align="center" alt="Github" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg"></a>
-  
-**Função: Dev Team**
-- **Nome:** Jonatas Filipe Carvalho Ferreira
-- **Links:**<a href="https://www.linkedin.com/in/jonatas-filipe-aa4534165/"><img align="center" alt="Linkedin" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"></a>
-            <a href="https://github.com/filipejonatas"><img align="center" alt="Github" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg"></a>
-
-**Função: Dev Team**
-- **Nome:** Henrique Pintor de Melo
-- **Links:** <a href="https://www.linkedin.com/in/henrique-pintor-92448a28b/"><img align="center" alt="Linkedin" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"></a>
-             <a href="https://github.com/HenriquePmelo"><img align="center" alt="Github" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg"></a>
-
-**Função: Dev Team**
-- **Nome:** Vinicius Barbosa Fernandes
-- **Links:** <a href="https://www.linkedin.com/in/vinicius-fernandes-6088a323b/"><img align="center" alt="Linkedin" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"></a>
-             <a href="https://github.com/Viniciusfernandes2"><img align="center" alt="Github" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg"></a>
-
-**Função: Dev Team**
-- **Nome:** Jackson Rodrigo Costa Machado
-- **Links:** <a href="https://www.linkedin.com/in/jackson-rodrigo-costa-machado-b636a84a/"><img align="center" alt="Linkedin" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"></a>
-             <a href="https://github.com/jacksonrcmachado"><img align="center" alt="Github" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg"></a>
-
-**Função: Dev Team**
-- **Nome:** Caio Cesar Silva Azevedo dos Reis
-- **Links:** <a href="https://www.linkedin.com/in/caio-azevedo-dev/"><img align="center" alt="Linkedin" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"></a>
-             <a href="https://github.com/CaiooAzevedoo"><img align="center" alt="Github" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg"></a>
-
-**Função: Dev Team**
-- **Nome:** Gustavo Carvalho
-- **Links:**<a href="https://www.linkedin.com/in/gustavo-carvalho-73663514a/"><img align="center" alt="Linkedin" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"></a>
-            <a href="https://github.com/xgustavu"><img align="center" alt="Github" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg"></a>
-
-<img style="vertical-align: middle" alt="WW" src="./icon/equipePhoto.jpg">
-
-</div>
