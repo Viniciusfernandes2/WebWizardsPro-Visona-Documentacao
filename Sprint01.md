@@ -33,7 +33,7 @@
 
 # 📇 Burndown Sprint 01
 
-[![Brundown Sprint01]
+
 
 ##### [🔝 Voltar ao topo ](#dart-objetivo-da-sprint)
 
