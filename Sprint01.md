@@ -47,7 +47,9 @@
 
 # 📝 Kanbam (Trello)
 <span id="clipboard-kanbam-trello">
-https://trello.com/invite/b/S4lllvi1/ATTI7b21bcaba66a81faa726ac27911e56094BBD2BA1/webwizardspro-visona
+ <div>
+<img alt="WW" height="500" width="700" src="./kanban_sprint01.png"> 
+ </div>
 
 ##### [🔝 Voltar ao topo ](#dart-objetivo-da-sprint)
 
