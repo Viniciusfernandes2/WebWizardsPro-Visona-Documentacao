@@ -25,8 +25,10 @@
 
 </div>
 
-#  🤝 Objetivo da Sprint
 <span id="dart-objetivo-da-sprint">
+ 
+#  🤝 Objetivo da Sprint
+
  
 - Os objetivos desta sprint foram centrados na entrega do wireframe ao cliente, modelagem do banco de dados, utilização de middleware, elaboração da documentação e distribuição de tarefas.
 
