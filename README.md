@@ -75,7 +75,28 @@ Legenda:
 <h2>
 <img style="vertical-align: middle" alt="WW" height="40" width="40" src="./icon/requisitos.png"> Requisitos do Cliente :
 </h2>
-<a href="./Requisitos de Cliente 2DSM - 2024-1.pdf"><img style="vertical-align: middle" alt="WW" height="20" width="20" src="./icon/baixar-pdf.png">  Requisitos de Cliente 2DSM - 2024-1.pdf</a>
+<a href="./Requisitos de Cliente 2DSM - 2024-1.pdf" ><img style="vertical-align: middle" alt="WW" height="20" width="20" src="./icon/baixar-pdf.png">  Requisitos de Cliente 2DSM - 2024-1.pdf</a>
+
+ <h3> Requisitos funcionais :</h3>
+  
+- Carregar o polígono de delimitação da área do projeto.
+- Carregar a grade de polígonos, especificando suas dimensões.
+- Cadastrar editores e revisores.
+- Definir a área de trabalho dos usuários.
+- Gerar estatísticas: número de polígonos, área total, correções realizadas.
+- Filtrar estatísticas por revisor e período.
+- Gerar estatísticas por editor: quantidade de polígonos mapeados, correções, área mapeada.
+- Visualizar e exportar relatórios em PDF.
+  
+<h3>Requisitos não funcionais :</h3>
+
+- Documentação no GitHub com detalhes do projeto, sprint, tecnologias utilizadas e equipe.
+- Utilização do Trello para gerenciar o backlog do produto, com integração ao GitHub.
+- Tecnologias:
+Back-end: TypeScript e Node.js.
+Front-end: React TypeScript, HTML, CSS.
+- Armazenamento: PostgreSQL.
+- Autenticação de usuário.
 </div>
 
 ##### [🔝 Voltar ao topo ](#topo)
