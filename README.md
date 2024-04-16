@@ -56,16 +56,6 @@ Legenda:
 - :hourglass: **Pendente**
 
 ##### [🔝 Voltar ao topo ](#topo)
-<div>
-<h2>
-
-<img style="vertical-align: middle" alt="WW" height="40" width="40" src="./icon/navegador-da-web.png"> Link do portal :
-
-</h2>
-****************  link do portal !!!  *****************
-</div>
-
-
 
 
 
@@ -78,7 +68,8 @@ Legenda:
 <img style="vertical-align: middle" alt="WW" height="800" width="900" src="./product_backlog.png">
   </div>
 </div>
-
+  
+##### [🔝 Voltar ao topo ](#topo)
 
 <div>
 <h2>
@@ -87,6 +78,7 @@ Legenda:
 <a href="./Requisitos de Cliente 2DSM - 2024-1.pdf"><img style="vertical-align: middle" alt="WW" height="20" width="20" src="./icon/baixar-pdf.png">  Requisitos de Cliente 2DSM - 2024-1.pdf</a>
 </div>
 
+##### [🔝 Voltar ao topo ](#topo)
 
 
 <div>
@@ -96,6 +88,8 @@ Legenda:
 <span id="tecnologias">
 </h2>
 </div>
+
+##### [🔝 Voltar ao topo ](#topo)
 
 
 <div>
@@ -126,6 +120,8 @@ src="./icon/postgres.png">
   
 </div>
 
+##### [🔝 Voltar ao topo ](#topo)
+
 <div>
 <h2>
 <span id="equipe">  
@@ -143,4 +139,4 @@ src="./icon/postgres.png">
 | Dev Team        | Caio Cesar Silva Azevedo dos Reis | [<img align="center" alt="Linkedin" height="30" width="30" src="./icon/pngwing.com.png">](https://www.linkedin.com/in/caio-azevedo-dev/) [<img align="center" alt="Github" height="30" width="30" src="./icon/github-desktop.1024x1024.png">](https://github.com/CaiooAzevedoo) |
 | Dev Team        | Gustavo Carvalho              | [<img align="center" alt="Linkedin" height="30" width="30" src="./icon/pngwing.com.png">](https://www.linkedin.com/in/gustavo-carvalho-73663514a/) [<img align="center" alt="Github" height="30" width="30" src="./icon/github-desktop.1024x1024.png">](https://github.com/xgustavu) |
 
-
+##### [🔝 Voltar ao topo ](#topo)
