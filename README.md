@@ -46,7 +46,7 @@ Cada entrega foi realizada a partir da data definida com o cliente, com o relat�
 
 | Sprint | Previsão de Entrega | Status | Histórico |
 | ------ | -------------------- | ------ | --------- |
-|   1    | 📅 17/04/2024        | :construction: Em Progresso | [:round_pushpin: Ver Relatório](./Sprint01.md  ) |
+|   1    | 📅 17/04/2024        | :white_check_mark: Finalizada | [:round_pushpin: Ver Relatório](./Sprint01.md  ) |
 |   2    | 📅 99/99/2024       | :construction: Em Progressoa | [:round_pushpin: Ver Relatório](./Sprint02.md) |
 |   3    | 📅 99/99/2024       | :construction: Em Progresso | [:round_pushpin: Ver Relatório](./Sprint03.md) |
 
@@ -54,6 +54,8 @@ Legenda:
 - :white_check_mark: **Finalizada**
 - :construction: **Em Progresso**
 - :hourglass: **Pendente**
+
+<br>
 
 ##### [🔝 Voltar ao topo ](#topo)
 
@@ -68,7 +70,9 @@ Legenda:
 <img style="vertical-align: middle" alt="WW" height="800" width="900" src="./product_backlog.png">
   </div>
 </div>
-  
+
+<br>
+
 ##### [🔝 Voltar ao topo ](#topo)
 
 <div>
@@ -99,6 +103,8 @@ Front-end: React TypeScript, HTML, CSS.
 - Autenticação de usuário.
 </div>
 
+<br>
+
 ##### [🔝 Voltar ao topo ](#topo)
 
 
@@ -109,6 +115,8 @@ Front-end: React TypeScript, HTML, CSS.
 <span id="tecnologias">
 </h2>
 </div>
+
+<br>
 
 ##### [🔝 Voltar ao topo ](#topo)
 
@@ -141,6 +149,8 @@ src="./icon/postgres.png">
   
 </div>
 
+<br>
+
 ##### [🔝 Voltar ao topo ](#topo)
 
 <div>
@@ -159,5 +169,7 @@ src="./icon/postgres.png">
 | Dev Team        | Jackson Rodrigo Costa Machado | [<img align="center" alt="Linkedin" height="30" width="30" src="./icon/pngwing.com.png">](https://www.linkedin.com/in/jackson-rodrigo-costa-machado-b636a84a/) [<img align="center" alt="Github" height="30" width="30" src="./icon/github-desktop.1024x1024.png">](https://github.com/jacksonrcmachado) |
 | Dev Team        | Caio Cesar Silva Azevedo dos Reis | [<img align="center" alt="Linkedin" height="30" width="30" src="./icon/pngwing.com.png">](https://www.linkedin.com/in/caio-azevedo-dev/) [<img align="center" alt="Github" height="30" width="30" src="./icon/github-desktop.1024x1024.png">](https://github.com/CaiooAzevedoo) |
 | Dev Team        | Gustavo Carvalho              | [<img align="center" alt="Linkedin" height="30" width="30" src="./icon/pngwing.com.png">](https://www.linkedin.com/in/gustavo-carvalho-73663514a/) [<img align="center" alt="Github" height="30" width="30" src="./icon/github-desktop.1024x1024.png">](https://github.com/xgustavu) |
+
+<br>
 
 ##### [🔝 Voltar ao topo ](#topo)
