@@ -33,7 +33,7 @@
 # 🚧 Sprint Backlog
 <span id="triangular_flag_on_post-sprint-backlog">
  <div align="center">
-<img alt="WW" height="500" width="800" src="./sprint01_backlog.png"> 
+<img alt="WW" height="500" width="9999" src="./sprint01_backlog.png"> 
  </div>
  
 # 📇 Burndown Sprint 01
@@ -53,12 +53,14 @@ https://trello.com/invite/b/S4lllvi1/ATTI7b21bcaba66a81faa726ac27911e56094BBD2BA
 
 # 🎬 Sprint Review
 <span id="sprint-r">
-O que funcionou bem ?
+<h3>O que funcionou bem ? </h3>
+ 
 - Organização da Equipe Utilizando o Discord para Melhor Visualização e Troca de Informações;
 - Realizar tarefas em prazo estipulado ;
 - Progresso da Documentação, Wireframe e Implementação do Banco de Dados;
 
-Pontos a melhorar !
+<h3>Pontos a melhorar !</h3>
+
 - Faltas nas Reuniões devido a Ausência de Parte da Equipe por Doença;
 
 
