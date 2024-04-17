@@ -164,6 +164,7 @@ src="./icon/postgres.png">
 </h2>
 
 <div align="center">
+
 | Função          | Nome                          | Links                                                                                                                         |
 |-----------------|-------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
 | Project Owner   | Ligia Ribeiro                 | [<img align="center" alt="Linkedin" height="30" width="30" src="./icon/pngwing.com.png">](https://www.linkedin.com/in/liribeiro/) [<img align="center" alt="Github" height="30" width="30" src="./icon/github-desktop.1024x1024.png">](https://github.com/ligribeiro) |
@@ -174,6 +175,7 @@ src="./icon/postgres.png">
 | Dev Team        | Jackson Rodrigo Costa Machado | [<img align="center" alt="Linkedin" height="30" width="30" src="./icon/pngwing.com.png">](https://www.linkedin.com/in/jackson-rodrigo-costa-machado-b636a84a/) [<img align="center" alt="Github" height="30" width="30" src="./icon/github-desktop.1024x1024.png">](https://github.com/jacksonrcmachado) |
 | Dev Team        | Caio Cesar Silva Azevedo dos Reis | [<img align="center" alt="Linkedin" height="30" width="30" src="./icon/pngwing.com.png">](https://www.linkedin.com/in/caio-azevedo-dev/) [<img align="center" alt="Github" height="30" width="30" src="./icon/github-desktop.1024x1024.png">](https://github.com/CaiooAzevedoo) |
 | Dev Team        | Gustavo Carvalho              | [<img align="center" alt="Linkedin" height="30" width="30" src="./icon/pngwing.com.png">](https://www.linkedin.com/in/gustavo-carvalho-73663514a/) [<img align="center" alt="Github" height="30" width="30" src="./icon/github-desktop.1024x1024.png">](https://github.com/xgustavu) |
+
 </div>
 
 <br>
