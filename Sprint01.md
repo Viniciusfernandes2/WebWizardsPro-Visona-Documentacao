@@ -46,7 +46,9 @@ Nesta sprint o time se uniu para as entregas de cada item listado na backlog da 
 
 Abaixo se encontra o gráfico Burndown gerado pela equipe nesta sprint, onde o eixo X são os dias trabalhados e o eixo Y representa as entregas de cada dia:
 
-<img align="center" src="./burndown_sprint01.png"> 
+<div align="center">
+    <img align="center" src="./burndown_sprint01.png">
+</div>
 
 ##### [🔝 Voltar ao topo ](#dart-objetivo-da-sprint)
 
@@ -61,7 +63,9 @@ Abaixo se encontra o gráfico Burndown gerado pela equipe nesta sprint, onde o e
 
 # 📝 Mer-SGBD
 
-<img alt="WW" height="500" width="800" src="./MER - VISIONA.png">
+<div align="center">
+    <img alt="WW" height="500" width="800" src="./MER - VISIONA.png">
+</div>
 
 
 <br>
@@ -70,8 +74,8 @@ Abaixo se encontra o gráfico Burndown gerado pela equipe nesta sprint, onde o e
 
 # 📝 Kanbam (Trello)
 <span id="clipboard-kanbam-trello">
- <div>
-<img alt="WW" height="500" width="700" src="./kanban_sprint01.png"> 
+ <div align="center">
+    <img alt="WW" height="500" width="700" src="./kanban_sprint01.png"> 
  </div>
 
 ##### [🔝 Voltar ao topo ](#dart-objetivo-da-sprint)
