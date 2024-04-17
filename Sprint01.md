@@ -77,7 +77,7 @@ Abaixo se encontra o gráfico Burndown gerado pela equipe nesta sprint, onde o e
 
 
 <div align="center">
-    <img height="500" width="800" src="./MER - VISIONA.png">
+    <img height="500" width="800" src="./mer_visona.png">
 </div>
 
 
