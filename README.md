@@ -34,7 +34,7 @@ Principais Funcionalidades:
 - Geração de estatísticas de mapeamento, correções e qualidade.
 - Filtragem e exportação de relatórios em PDF.
 
-Este sistema visa atender às necessidades das empresas que realizam projetos de geoprocessamento e geoinformação, proporcionando uma maneira eficiente e colaborativa de realizar mapeamentos de forma precisa e organizada. 
+Este sistema visa atender à necessidade da empresa que realiza projetos de geoprocessamento e geoinformação, proporcionando uma maneira eficiente e colaborativa de realizar mapeamentos de forma precisa e organizada. 
 </p>
 </div>
 
