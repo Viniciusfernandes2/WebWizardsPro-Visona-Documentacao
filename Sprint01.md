@@ -46,7 +46,7 @@ Nesta sprint o time se uniu para as entregas de cada item listado na backlog da 
 
 Abaixo se encontra o gráfico Burndown gerado pela equipe nesta sprint, onde o eixo X são os dias trabalhados e o eixo Y representa as entregas de cada dia:
 
-<img alt="WW" height="400" width="800" src="./burndown_sprint01.png"> 
+<img align="center" src="./burndown_sprint01.png"> 
 
 ##### [🔝 Voltar ao topo ](#dart-objetivo-da-sprint)
 
