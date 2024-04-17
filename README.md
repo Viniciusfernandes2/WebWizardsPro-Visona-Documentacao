@@ -61,7 +61,7 @@ Cada entrega foi realizada a partir da data definida com o cliente, com o relat√
 Legenda:
 - :white_check_mark: **Finalizada**
 - :construction: **Em Progresso**
-- :hourglass: **Pendente**
+- [-] **N√£o iniciado**
 
 <br>
 
