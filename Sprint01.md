@@ -30,7 +30,7 @@
 #  🤝 Objetivo da Sprint
 
  
-- Os objetivos desta sprint foram centrados na entrega do wireframe ao cliente, modelagem do banco de dados, utilização de middleware, elaboração da documentação e distribuição de tarefas.
+- Os objetivos desta sprint foram centrados na entrega do Wireframe ao cliente, modelagem do banco de dados, elaboração da documentação e distribuição de tarefas.
 
 # 🚧 Sprint Backlog
 <span id="triangular_flag_on_post-sprint-backlog">
