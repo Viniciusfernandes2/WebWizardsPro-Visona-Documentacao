@@ -7,9 +7,10 @@
 </div>
 <div align="center"> 
 <a  href="#dart-objetivo-da-sprint">Objetivo da Sprint</a> | 
-<a  href="#triangular_flag_on_post-sprint-backlog">Backlog da Sprint</a> | 
-<a  href="#page_facing_up-wireframe">Wireframe</a> | 
-<a  href="#clipboard-kanbam-trello">Kanbam</a> | 
+<a  href="#sprint-backlog">Backlog da Sprint</a> | 
+<a  href="#wireframe">Wireframe</a> | 
+<a  href="#mer">Mer</a> | 
+<a  href="#kanban">Kanban</a> | 
 <a  href="#sprint-r">Sprint Review</a>
 </div>
 
@@ -32,11 +33,14 @@
  
 - Os objetivos desta sprint foram centrados na entrega do Wireframe ao cliente, modelagem do banco de dados, elaboração da documentação e distribuição de tarefas.
 
+<span id="sprint-backlog">
 # 🚧 Sprint Backlog
-<span id="triangular_flag_on_post-sprint-backlog">
- <div align="center">
-<img alt="WW" height="500" width="9999" src="./sprint01_backlog.png"> 
- </div>
+
+
+<div align="center">
+    <img alt="WW" height="500" width="9999" src="./sprint01_backlog.png"> 
+</div>
+
  <br>
  
 ##### [🔝 Voltar ao topo ](#dart-objetivo-da-sprint)
@@ -52,8 +56,10 @@ Abaixo se encontra o gráfico Burndown gerado pela equipe nesta sprint, onde o e
 
 ##### [🔝 Voltar ao topo ](#dart-objetivo-da-sprint)
 
+<span id="wireframe">
+
 # 📝 Wireframe
-<span id="page_facing_up-wireframe">
+
 
 <img alt="WW" height="500" width="9999" src="./wireframe.png">
 
@@ -61,10 +67,13 @@ Abaixo se encontra o gráfico Burndown gerado pela equipe nesta sprint, onde o e
 
 ##### [🔝 Voltar ao topo ](#dart-objetivo-da-sprint)
 
+
+<span id="mer">
 # 📝 Modelagem do SGBD
 
+
 <div align="center">
-    <img alt="WW" height="500" width="800" src="./MER - VISIONA.png">
+    <img height="500" width="800" src="./MER - VISIONA.png">
 </div>
 
 
@@ -72,16 +81,18 @@ Abaixo se encontra o gráfico Burndown gerado pela equipe nesta sprint, onde o e
 
 ##### [🔝 Voltar ao topo ](#dart-objetivo-da-sprint)
 
-# 📝 Kanbam (Trello)
-<span id="clipboard-kanbam-trello">
+# 📝 Kanban (Trello)
+<span id="kanban">
+
  <div align="center">
-    <img alt="WW" height="500" width="700" src="./kanban_sprint01.png"> 
+    <img height="500" width="700" src="./kanban_sprint01.png"> 
  </div>
 
 ##### [🔝 Voltar ao topo ](#dart-objetivo-da-sprint)
 
 # 🎬 Sprint Review
 <span id="sprint-r">
+
 <h3>O que funcionou bem ? </h3>
  
 - Organização da Equipe Utilizando o Discord para Melhor Visualização e Troca de Informações;
