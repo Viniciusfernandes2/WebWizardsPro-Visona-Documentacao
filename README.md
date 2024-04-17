@@ -48,11 +48,15 @@ Este sistema visa atender à necessidade da empresa que realiza projetos de geop
 
 Cada entrega foi realizada a partir da data definida com o cliente, com o relatório completo do que foi desenvolvido nas sprints. Abaixo está a relação das sprints:
 
+<div align="center">
+
 | Sprint | Previsão de Entrega | Status | Histórico |
 | ------ | -------------------- | ------ | --------- |
 |   1    | 📅 17/04/2024        | :white_check_mark: Finalizada | [:round_pushpin: Ver Relatório](./Sprint01.md  ) |
 |   2    | 📅 99/99/2024       | :hourglass: Pendente |                                                  |
 |   3    | 📅 99/99/2024       | :hourglass: Pendente |                                                   |
+
+</div>
 
 Legenda:
 - :white_check_mark: **Finalizada**
@@ -159,6 +163,7 @@ src="./icon/postgres.png">
 <img style="vertical-align: middle" alt="WW" height="40" width="40" src="./icon/equipe.png"> Nossa quipe :
 </h2>
 
+<div align="center">
 | Função          | Nome                          | Links                                                                                                                         |
 |-----------------|-------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
 | Project Owner   | Ligia Ribeiro                 | [<img align="center" alt="Linkedin" height="30" width="30" src="./icon/pngwing.com.png">](https://www.linkedin.com/in/liribeiro/) [<img align="center" alt="Github" height="30" width="30" src="./icon/github-desktop.1024x1024.png">](https://github.com/ligribeiro) |
@@ -169,6 +174,7 @@ src="./icon/postgres.png">
 | Dev Team        | Jackson Rodrigo Costa Machado | [<img align="center" alt="Linkedin" height="30" width="30" src="./icon/pngwing.com.png">](https://www.linkedin.com/in/jackson-rodrigo-costa-machado-b636a84a/) [<img align="center" alt="Github" height="30" width="30" src="./icon/github-desktop.1024x1024.png">](https://github.com/jacksonrcmachado) |
 | Dev Team        | Caio Cesar Silva Azevedo dos Reis | [<img align="center" alt="Linkedin" height="30" width="30" src="./icon/pngwing.com.png">](https://www.linkedin.com/in/caio-azevedo-dev/) [<img align="center" alt="Github" height="30" width="30" src="./icon/github-desktop.1024x1024.png">](https://github.com/CaiooAzevedoo) |
 | Dev Team        | Gustavo Carvalho              | [<img align="center" alt="Linkedin" height="30" width="30" src="./icon/pngwing.com.png">](https://www.linkedin.com/in/gustavo-carvalho-73663514a/) [<img align="center" alt="Github" height="30" width="30" src="./icon/github-desktop.1024x1024.png">](https://github.com/xgustavu) |
+</div>
 
 <br>
 
