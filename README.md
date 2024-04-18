@@ -63,7 +63,7 @@ Legenda:
 - :construction: **Em Progresso**
 - [-] **Não iniciado**
 
-A apresentação do vídeo por ser acessada por [aqui!](https://www.youtube.com/watch?v=wfPRrgkOSB4) 
+A apresentação da Sprint 1 em vídeo por ser acessada por [aqui!](https://www.youtube.com/watch?v=wfPRrgkOSB4) 
 
 <br>
 
