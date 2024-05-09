@@ -51,7 +51,7 @@ Abaixo se encontra o gráfico Burndown gerado pela equipe nesta sprint, onde o e
 ##### [🔝 Voltar ao topo ](#topo)
 
 
-# 📝 Kanban (Trello) (exemplo precisa att)
+# 📝 Kanban (Trello)
 <span id="kanban">
 
 
