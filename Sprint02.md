@@ -10,8 +10,6 @@
 <div align="center"> 
 <a  href="#dart-objetivo-da-sprint">Objetivo da Sprint</a> | 
 <a  href="#sprint-backlog">Backlog da Sprint</a> | 
-<a  href="#wireframe">Wireframe</a> | 
-<a  href="#mer">Modelagem SGBD</a> | 
 <a  href="#kanban">Kanban</a> | 
 <a  href="#sprint-r">Sprint Review</a>
 </div>
