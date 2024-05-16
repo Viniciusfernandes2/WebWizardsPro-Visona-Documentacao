@@ -30,12 +30,17 @@
  
 #  🤝 Objetivo da Sprint
 
+- Nesta sprint, estamos construindo as partes básicas do sistema. Isso inclui criar as telas de entrada, como a página de login e a página inicial para o administrador, além de configurar o servidor e o banco de dados para que tudo funcione corretamente. Também estamos garantindo que a segurança do sistema esteja em ordem, com verificações de login e proteção de dados. E, para manter tudo organizado, estamos documentando o processo e organizando os arquivos no GitHub. 
  
 <span id="sprint-backlog">
 
 # 🚧 Sprint Backlog
 
+<div align="center">
+    <img alt="WW" height="" width="" src="./sprint2_backlog.png"> 
+</div>
 
+ <br>
  
 ##### [🔝 Voltar ao topo ](#topo)
  
@@ -52,7 +57,11 @@ Abaixo se encontra o gráfico Burndown gerado pela equipe nesta sprint, onde o e
 # 📝 Kanban (Trello)
 <span id="kanban">
 
+<span id="kanban">
 
+ <div align="center">
+    <img height="" width="" src="./kanban_sprint02.png"> 
+ </div>
 
 ##### [🔝 Voltar ao topo ](#topo)
 
