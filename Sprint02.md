@@ -44,12 +44,14 @@
  
 ##### [🔝 Voltar ao topo ](#topo)
  
-# 📇 Burndown Sprint 01
+# 📇 Burndown Sprint 02
 Nesta sprint o time se uniu para as entregas de cada item listado na backlog da sprint.
 
 Abaixo se encontra o gráfico Burndown gerado pela equipe nesta sprint, onde o eixo X são os dias trabalhados e o eixo Y representa as entregas de cada dia:
 
-
+<div align="center">
+    <img align="center" src="./burndown_sprint02.png">
+</div>
 
 ##### [🔝 Voltar ao topo ](#topo)
 
