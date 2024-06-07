@@ -2,9 +2,9 @@
 
  <div  align="center">
 
-### 📍 Sprint 02 📍
+### 📍 Sprint 03 📍
 
-## 🗓️ 18/04/2023 à 16/05/24 🗓️
+## 🗓️ 17/05/2023 à 13/06/24 🗓️
 
 </div>
 <div align="center"> 
