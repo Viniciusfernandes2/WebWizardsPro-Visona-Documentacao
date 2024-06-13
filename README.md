@@ -77,7 +77,7 @@ A apresentação da Sprint 1 em vídeo por ser acessada por [aqui!](https://www.
 <img style="vertical-align: middle" alt="WW" height="40" width="40" src="./icon/backlog.png"> Product Backlog :
 </h2>
   <div align="center">
-<img style="vertical-align: middle" alt="WW" height="800" width="900" src="./product_backlog.png">
+<img style="vertical-align: middle" alt="WW" height="800" width="900" src="./product backlog.png">
   </div>
 </div>
 
