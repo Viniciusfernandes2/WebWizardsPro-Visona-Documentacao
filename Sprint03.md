@@ -12,6 +12,7 @@
 <a  href="#sprint-backlog">Backlog da Sprint</a> | 
 <a  href="#kanban">Kanban</a> | 
 <a  href="#sprint-r">Sprint Review</a>
+<a  href="diagrama">Diagramas UML</a>
 </div>
 
 <div align="center">
@@ -55,13 +56,31 @@ Abaixo se encontra o gráfico Burndown gerado pela equipe nesta sprint, onde o e
 
 ##### [🔝 Voltar ao topo ](#topo)
 
-
 # 📝 Kanban (Trello)
 <span id="kanban">
 
-<span id="kanban">
-
  <div align="center">
+    <img height="" width="" src=""> 
+ </div>
+
+##### [🔝 Voltar ao topo ](#topo)
+
+
+# 📝 Diagramas UML.
+<span id="diagrama">
+ 
+## Diagrama de Classe.
+ <div align="center">
+    <img height="" width="" src="diagrama_clasee.jpg"> 
+ </div>
+
+## Diagrama de Sequencia.
+  <div align="center">
+    <img height="" width="" src="diagrama_sequencia.jpg"> 
+ </div>
+
+## Diagrama de Caso de Uso.
+  <div align="center">
     <img height="" width="" src=""> 
  </div>
 
