@@ -31,6 +31,7 @@
  
 #  🤝 Objetivo da Sprint
 
+### Objetivo da Sprint:  finalizar o projeto, deixando funcional e atendendo a todos os requisitos pedidos pelos professores.
  
  
 <span id="sprint-backlog">
