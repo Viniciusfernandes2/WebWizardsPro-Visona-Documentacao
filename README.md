@@ -12,7 +12,8 @@
 <a  href="#backlogs">Product Backlog</a> |
 <a  href="#sprint">Entrega de Sprints</a> |
 <a  href="#tecnologias">Tecnologias</a> |
-<a  href="#equipe">Nossa Equipe</a>
+<a  href="#equipe">Nossa Equipe</a> |
+<a  href=#useStories> Use Stories</a>
 </p>
 
 <span  id="sobre">  
@@ -119,12 +120,12 @@ Front-end: React TypeScript, HTML, CSS.
 ##### [🔝 Voltar ao topo ](#topo)
 
 <div>
-<span  id="backlogs">
+<span  id="useStories">
 <h2>
 <img style="vertical-align: middle" alt="WW" height="40" width="40" src="./icon/backlog.png"> Use Stories :
 </h2>
   <div align="center">
-<img style="vertical-align: middle" alt="WW" height="800" width="1200" src="User Stories.png">
+<img style="vertical-align: middle" alt="WW" height="" width="" src="User Stories.png">
   </div>
 </div>
 
