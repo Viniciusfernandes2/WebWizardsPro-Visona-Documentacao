@@ -61,7 +61,7 @@ Abaixo se encontra o gráfico Burndown gerado pela equipe nesta sprint, onde o e
 <span id="kanban">
 
  <div align="center">
-    <img height="" width="" src=""> 
+    <img height="" width="" src="Kanban.png"> 
  </div>
 
 ##### [🔝 Voltar ao topo ](#topo)
