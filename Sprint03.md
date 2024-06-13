@@ -81,7 +81,7 @@ Abaixo se encontra o gráfico Burndown gerado pela equipe nesta sprint, onde o e
 
 ## Diagrama de Caso de Uso.
   <div align="center">
-    <img height="" width="" src=""> 
+    <img height="" width="" src="Diagrama de caso de uso.png"> 
  </div>
 
 ##### [🔝 Voltar ao topo ](#topo)
