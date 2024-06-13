@@ -91,7 +91,7 @@ A apresentação da Sprint 1 em vídeo por ser acessada por [aqui!](https://www.
 <h2>
 <img style="vertical-align: middle" alt="WW" height="40" width="40" src="./icon/requisitos.png"> Requisitos do Cliente :
 </h2>
-<a href="./Requisitos de Cliente 2DSM - 2024-1.pdf" ><img style="vertical-align: middle" alt="WW" height="20" width="20" src="./icon/baixar-pdf.png">  Requisitos de Cliente 2DSM - 2024-1.pdf</a>
+<a href="Requisitos_de_Cliente_2DSM-2024-1.pdf" ><img style="vertical-align: middle" alt="WW" height="20" width="20" src="./icon/baixar-pdf.png">  Requisitos de Cliente 2DSM - 2024-1.pdf</a>
 
  <h3> Requisitos funcionais :</h3>
   
