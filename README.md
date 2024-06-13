@@ -55,7 +55,7 @@ Cada entrega foi realizada a partir da data definida com o cliente, com o relat�
 | ------ | -------------------- | ------ | --------- |
 |   1    | 📅 17/04/2024        | :white_check_mark: Finalizada | [:round_pushpin: Ver Relatório](./Sprint01.md  ) |
 |   2    | 📅 16/05/2024        | :white_check_mark: Finalizada | [:round_pushpin: Ver Relatório](./Sprint02.md  ) |
-|   3    | 📅 13/06/2024        | :construction: Em Progresso| [:round_pushpin: Ver Relatório](./Sprint03.md  ) |
+|   3    | 📅 13/06/2024        | :white_check_mark: Finalizada | [:round_pushpin: Ver Relatório](./Sprint03.md  ) |
 
 </div>
 
@@ -78,7 +78,7 @@ A apresentação da Sprint 1 em vídeo por ser acessada por [aqui!](https://www.
 <img style="vertical-align: middle" alt="WW" height="40" width="40" src="./icon/backlog.png"> Product Backlog :
 </h2>
   <div align="center">
-<img style="vertical-align: middle" alt="WW" height="800" width="1200" src="produc backlog.png">
+<img style="vertical-align: middle" alt="WW" height="850" width="1150" src="produc backlog.png">
   </div>
 </div>
 
