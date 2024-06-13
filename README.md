@@ -85,6 +85,7 @@ A apresentação da Sprint 1 em vídeo por ser acessada por [aqui!](https://www.
 
 ##### [🔝 Voltar ao topo ](#topo)
 
+
 <div>
 <h2>
 <img style="vertical-align: middle" alt="WW" height="40" width="40" src="./icon/requisitos.png"> Requisitos do Cliente :
@@ -111,6 +112,20 @@ Back-end: TypeScript e Node.js.
 Front-end: React TypeScript, HTML, CSS.
 - Armazenamento: PostgreSQL.
 - Autenticação de usuário.
+</div>
+
+<br>
+
+##### [🔝 Voltar ao topo ](#topo)
+
+<div>
+<span  id="backlogs">
+<h2>
+<img style="vertical-align: middle" alt="WW" height="40" width="40" src="./icon/backlog.png"> Use Stories :
+</h2>
+  <div align="center">
+<img style="vertical-align: middle" alt="WW" height="800" width="1200" src="User Stories.png">
+  </div>
 </div>
 
 <br>
