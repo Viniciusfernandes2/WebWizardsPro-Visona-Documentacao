@@ -52,7 +52,7 @@ Nesta sprint o time se uniu para as entregas de cada item listado na backlog da 
 Abaixo se encontra o gráfico Burndown gerado pela equipe nesta sprint, onde o eixo X são os dias trabalhados e o eixo Y representa as entregas de cada dia:
 
 <div align="center">
-    <img align="center" src="">
+    <img align="center" src="burndown3.jfif">
 </div>
 
 ##### [🔝 Voltar ao topo ](#topo)
@@ -89,9 +89,14 @@ Abaixo se encontra o gráfico Burndown gerado pela equipe nesta sprint, onde o e
 
 # 🎬 Sprint Review
 <span id="sprint-r">
-pontos positivos : Implementação de todos os requisitos com sucesso; aprendizado intenso das linguagens aplicadas no produto.
+ 
+### pontos positivos :
+ 
+ Implementação de todos os requisitos com sucesso; aprendizado intenso das linguagens aplicadas no produto.
 
-Pontos a melhorar: melhorar a dinâmica em equipe e divisão de tarefas
+### Pontos a melhorar :
+
+melhorar a dinâmica em equipe e divisão de tarefas
 
 
 ##### [🔝 Voltar ao topo ](#topo)
