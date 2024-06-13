@@ -89,7 +89,9 @@ Abaixo se encontra o gráfico Burndown gerado pela equipe nesta sprint, onde o e
 
 # 🎬 Sprint Review
 <span id="sprint-r">
+pontos positivos : Implementação de todos os requisitos com sucesso; aprendizado intenso das linguagens aplicadas no produto.
 
+Pontos a melhorar: melhorar a dinâmica em equipe e divisão de tarefas
 
 
 ##### [🔝 Voltar ao topo ](#topo)
